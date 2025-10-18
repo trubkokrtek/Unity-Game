@@ -1,2 +1,2 @@
 # Unity-Game
-* Unity version: 2022.3.62f1
+* Unity version: 6000.2.8f1
